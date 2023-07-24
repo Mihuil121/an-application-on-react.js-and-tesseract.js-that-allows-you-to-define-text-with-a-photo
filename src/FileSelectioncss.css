@@ -1,0 +1,71 @@
+body {
+    background: linear-gradient(to left ,rgba(49, 9, 205, 1), white);
+    font-family: 'Roboto', sans-serif;
+}
+
+.file-selection {
+    background-color: black;
+    width: 30rem;
+    height: 20rem;
+    margin: auto;
+    margin-left: 10rem;
+    margin-top: 10rem;
+    transform: translate(15px, -5px);
+    border-radius: 5%
+}
+
+.file {
+    width: 5rem;
+    display: block;
+    margin-left: 13rem;
+    margin-right: auto;
+    transform: translate(1px, 6.5rem);
+
+}
+
+.Apps {
+    display: flex;
+}
+
+.find {
+    margin: auto;
+    margin-left: 10rem;
+    margin-top: 10rem;
+    transform: translate(15px, -5px);
+    border-radius: 5%
+}
+
+.finds {
+    font-size: 3rem;
+    color: aliceblue;
+}
+
+.findse {
+    background-color: #e9f5db;
+    width: 18rem;
+    height: 3rem;
+    transform: translate(0, 4rem);
+    border-radius: 2rem;
+
+}
+
+.findf {
+    color: #000000;
+    font-size: 2rem;
+    text-align: center;
+    margin: auto;
+
+}
+
+.text {    
+    border-radius: 3rem;
+    background: white;
+    transform: translate(8rem, 1rem);
+    border: 0.5px solid #000000;
+  }
+
+
+
+.filel{
+    width: 100rem;
+}
